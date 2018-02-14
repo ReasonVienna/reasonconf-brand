@@ -9,10 +9,15 @@ Logos &amp; media materials of ReasonConf
 [PNG](logo.png)
 [SVG](logo.svg)
 
-![Logo B&W @2x](logo-b&w@2x.png)
+![Logo Black @2x](logo-black@2x.png)
 
-[PNG](logo-b&w.png)
-[SVG](logo-b&w.svg)
+[PNG](logo-black.png)
+[SVG](logo-black.svg)
+
+![Logo White @2x](logo-white@2x.png)
+
+[PNG](logo-white.png)
+[SVG](logo-white.svg)
 
 ## Open Graph & Heros
 
